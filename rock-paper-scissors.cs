@@ -12,6 +12,7 @@ class program
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("                                              Rock-Paper-Scissors Game!            ");
             string PlayAgain;
+            Console.WriteLine("git test")
             do
             {
                 string[] Possibilities = ["✂️ Scissors", "🏔️ Rock", "📃 Paper"];
